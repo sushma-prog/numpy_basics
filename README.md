@@ -13,3 +13,5 @@ This repository contains my NumPy exercises, covering:
 ## Tech Stack  
 - Python  
 - NumPy  
+
+![image](https://github.com/user-attachments/assets/7d16f682-2890-4245-98e3-b2a219f5984b)
